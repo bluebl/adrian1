@@ -38,7 +38,7 @@ public class tryout {
 	      Date now = new Date();
 	      SimpleDateFormat simpleFormatterx = new SimpleDateFormat("dd/MM/yyyy ");
 	      String x = simpleFormatterx.format(now).trim();
-	      System.out.println("zyyxx--"+x+"--zyxxy");
+	      System.out.println("zyyxxfeature2--"+x+"--feature2zyxxy");
 	     
 	}
 
